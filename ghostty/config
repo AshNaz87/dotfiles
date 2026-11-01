@@ -6,10 +6,15 @@ fullscreen = true
 macos-icon = official
 window-padding-balance = true
 window-save-state = always
-keybind = ctrl+shift+t=toggle_quick_terminal
 keybind = super+plus=increase_font_size:1
 keybind = super+minus=decrease_font_size:1
 keybind = super+shift+t=new_split:down
 keybind = ctrl+j=goto_split:bottom
 keybind = ctrl+k=goto_split:top
 keybind = super+v=paste_from_clipboard
+font-family = "Fira Code"
+font-size = 13
+font-style = Retina
+font-style-bold = SemiBold
+
+config-file = ?local
